@@ -1,0 +1,88 @@
+PARCEL COMPLEMENTARITY MODEL (PCM)
+RESTRICTED ACADEMIC INSTRUCTOR LICENSE (PROPRIETARY)
+
+Copyright © 2026 Haithem Drici.
+All rights reserved.
+
+IMPORTANT: THIS SOFTWARE IS NOT OPEN SOURCE.
+Access to this repository, viewing of its contents, or possession of any copy does not grant
+any rights except those expressly stated in this license.
+
+1) DEFINITIONS
+“Software” means all code, notebooks, scripts, prompts, documentation, models, datasets,
+figures, diagrams, and other materials contained in this repository or distributed with it.
+
+“Authorised Instructor” means a lecturer, professor, teaching assistant, or course staff member
+formally affiliated with an accredited academic institution, using the Software solely for
+instruction within an official course, and explicitly authorised by the Licensor (either
+individually or through institution/course approval).
+
+“Licensor” means Haithem Drici.
+
+2) GRANT OF LIMITED LICENSE (TEACHING ONLY)
+Subject to full compliance with this license, the Licensor grants Authorised Instructors a
+limited, non-exclusive, non-transferable, non-sublicensable, revocable license to:
+(a) access and run the Software, and
+(b) display it in a classroom setting, and
+(c) use it for teaching demonstrations and student assignments,
+only for non-commercial educational instruction.
+
+3) STRICT PROHIBITIONS
+Unless you have prior written permission from the Licensor, you may NOT, and you may NOT
+permit others to:
+
+3.1 Research Use Prohibited
+Use the Software or any part of it for research purposes, including but not limited to:
+- publishing papers, theses, dissertations, reports, or academic articles,
+- producing research prototypes,
+- using it in experiments, benchmarks, evaluations, or method validation,
+- generating results intended for publication, preprints, or academic dissemination.
+
+3.2 Commercial / Private Sector Use Prohibited
+Use the Software for any commercial purpose or private sector solution, including:
+- consulting, paid projects, business services,
+- product development, SaaS, internal corporate tools,
+- any monetised activity.
+
+3.3 Government / Public Sector Use Prohibited
+Use the Software in whole or in part for any government, municipality, agency, or public-sector
+project, deliverable, procurement, or internal system.
+
+3.4 Reproduction / Redistribution Prohibited
+Copy, reproduce, redistribute, share, publish, or make available the Software to any third
+party, including students, colleagues, institutions, or the public, except as strictly necessary
+to teach inside a closed course environment where students only RUN the notebook and do not
+receive a reusable copy.
+
+3.5 Derivatives / Modifications Prohibited
+Modify, adapt, translate, transform, reverse engineer, decompile, or create derivative works
+based on the Software.
+
+3.6 Deployment Prohibited
+Deploy the Software in any operational environment, production environment, cloud service,
+or decision-support system.
+
+4) STUDENT ACCESS LIMITATION
+Students may be allowed to access a controlled course instance strictly for running the notebook
+for educational learning. Students are not granted any right to copy, redistribute, reuse, or
+repurpose the Software outside the course.
+
+5) OWNERSHIP
+The Software is licensed, not sold. The Licensor retains all right, title, and interest in and to
+the Software, including all intellectual property rights.
+
+6) TERMINATION
+This license is effective until terminated.
+It terminates automatically and immediately upon any breach of this license.
+Upon termination, you must stop using the Software and destroy all copies in your possession or
+control.
+
+7) NO WARRANTY
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NON-INFRINGEMENT.
+
+8) LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
